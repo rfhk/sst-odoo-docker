@@ -1,2 +1,4 @@
+# Odoo Product Connector
 odoorpc==0.6.1
+# OCA Component Module
 cachetools==2.1.0
