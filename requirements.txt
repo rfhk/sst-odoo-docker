@@ -2,3 +2,4 @@
 odoorpc==0.6.1
 # OCA Component Module
 cachetools==2.1.0
+jaconv==0.2.4
