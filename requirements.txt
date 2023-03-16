@@ -5,3 +5,5 @@ cachetools==2.1.0
 jaconv==0.2.4
 # Restful API Module
 simplejson==3.16.0
+# OCA attachment_s3 module
+boto3
