@@ -1,2 +1,4 @@
 # OCA excel_import_export module
 openpyxl
+# OCA attachment_s3 module
+boto3
